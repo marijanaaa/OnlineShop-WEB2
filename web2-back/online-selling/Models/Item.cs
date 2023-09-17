@@ -11,7 +11,6 @@
         public List<OrderItem> OrderItems { get; set; }
         public User User { get; set; }
         public int UserId { get; set; }
-
         public Item() { }
 
         public Item(string name, int price, int amount, string description, string picture)
