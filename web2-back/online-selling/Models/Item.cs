@@ -9,8 +9,8 @@
         public string Description { get; set; }
         public string Picture { get; set; }
         public List<OrderItem> OrderItems { get; set; }
-        public User User { get; set; }
-        
+        public User Userrr { get; set; }
+
         public int UserId { get; set; }
         public Item() { }
 
